@@ -1,2 +1,2 @@
-# Python_project1
+# Python_project
 Statistic
